@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.ArlindNocaj:power-voronoi-diagram:2a069ff02a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ArlindNocaj/power-voronoi-diagram/2a069ff02a/power-voronoi-diagram-2a069ff02a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ArlindNocaj/power-voronoi-diagram/2a069ff02a/power-voronoi-diagram-2a069ff02a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ArlindNocaj/power-voronoi-diagram/2a069ff02a/power-voronoi-diagram-2a069ff02a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
